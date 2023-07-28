@@ -1,0 +1,16 @@
+h1{
+    color: darkcyan;
+    font-size: 150pt;
+    text-align: center;
+}
+
+p{
+    color: mediumaquamarine;
+    font-size: 15pt;
+    text-align: left;
+    text-align: center;
+}
+
+body{
+    background-color: lightcyan
+}
